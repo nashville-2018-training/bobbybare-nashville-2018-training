@@ -1,0 +1,14 @@
+uuid: 1ff3b109-78fb-4aef-96c0-56e750061a9e
+name: bobbybare-nashville-2018-training
+mail: david.needham@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
